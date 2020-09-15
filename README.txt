@@ -1,5 +1,5 @@
 This is my own personal website hosted by Github Pages. 
-Here i will document my projects and provide my code where ever I can. I hope to continuosuly update this website adding in new features to the website and updating my projects. 
+Here i will document my projects and provide my code where ever I can. I hope to continuously update this website adding in new features to the website and updating my projects. 
 I hope you enjoy it!
 
 
